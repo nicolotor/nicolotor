@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I am a Munich based web developer, love exploring new technologies.
+- 🤔 &nbsp; I am a Munich based web developer.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
