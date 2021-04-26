@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Nicolò.</h2>
+<h2> Hey there! I'm Nico.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
